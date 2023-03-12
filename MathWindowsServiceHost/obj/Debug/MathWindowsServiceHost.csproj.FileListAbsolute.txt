@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe.config
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.pdb
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathServiceLibrary.dll
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathServiceLibrary.pdb
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathServiceLibrary.dll.config
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.ProjectInstaller.resources
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.csproj.CopyComplete
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.exe
+C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.pdb

@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\WCFProjectTemplate\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll.config
+C:\Users\USER\source\repos\WCFProjectTemplate\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll
+C:\Users\USER\source\repos\WCFProjectTemplate\MathServiceLibrary\bin\Debug\MathServiceLibrary.pdb
+C:\Users\USER\source\repos\WCFProjectTemplate\MathServiceLibrary\obj\Debug\MathServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WCFProjectTemplate\MathServiceLibrary\obj\Debug\MathServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WCFProjectTemplate\MathServiceLibrary\obj\Debug\MathServiceLibrary.dll
+C:\Users\USER\source\repos\WCFProjectTemplate\MathServiceLibrary\obj\Debug\MathServiceLibrary.pdb

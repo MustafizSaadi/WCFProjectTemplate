@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.InstallLog
+   assemblypath = C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe
+Installing service MathService...
+Service MathService has been successfully installed.
+Creating EventLog source MathService in log Application...
+Committing assembly 'C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.InstallLog
+   assemblypath = C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe
+Installing assembly 'C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.InstallLog
+   assemblypath = C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe
+Installing service MathService...
+Creating EventLog source MathService in log Application...
+Rolling back assembly 'C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.InstallLog
+   assemblypath = C:\Users\USER\source\repos\WCFProjectTemplate\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe
+Restoring event log to previous state for source MathService.

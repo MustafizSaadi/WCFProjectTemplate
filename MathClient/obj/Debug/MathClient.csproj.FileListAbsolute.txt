@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\WCFProjectTemplate\MathClient\bin\Debug\MathClient.exe.config
+C:\Users\USER\source\repos\WCFProjectTemplate\MathClient\bin\Debug\MathClient.exe
+C:\Users\USER\source\repos\WCFProjectTemplate\MathClient\bin\Debug\MathClient.pdb
+C:\Users\USER\source\repos\WCFProjectTemplate\MathClient\obj\Debug\MathClient.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WCFProjectTemplate\MathClient\obj\Debug\MathClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\WCFProjectTemplate\MathClient\obj\Debug\MathClient.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WCFProjectTemplate\MathClient\obj\Debug\MathClient.exe
+C:\Users\USER\source\repos\WCFProjectTemplate\MathClient\obj\Debug\MathClient.pdb
